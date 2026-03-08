@@ -12,4 +12,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Franco%20Testi&theme=sakura-x)](https://git.io/streak-stats)
 
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoTesti"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoTesti"/>
