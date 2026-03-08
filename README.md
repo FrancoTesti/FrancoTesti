@@ -12,4 +12,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Franco%20Testi&theme=sakura-x)](https://git.io/streak-stats)
 
-![Metrics](https://metrics.lecoq.io/FrancoTesti?base=languages&languages.sections=most-used&display=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=FrancoTesti&layout=compact&theme=radical)](https://github.com/FrancoTesti)
