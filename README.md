@@ -1,16 +1,15 @@
-## Hi there 👋
+# Franco Testi
+## Estudiante de Ingeniería en Sistemas de Información | Argentina
 
-<!--
-**FrancoTesti/FrancoTesti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack Tecnológico
+* **Lenguajes:** Python, C++, C, Smalltalk.
+* **Tecnologías Web:** HTML5, CSS3.
 
-Here are some ideas to get you started:
+### Enfoque
+* Arquitectura de sistemas, lógica computacional y desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Franco%20Testi&theme=sakura-x)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoTesti)](https://github.com/FrancoTesti/github-readme-stats)
