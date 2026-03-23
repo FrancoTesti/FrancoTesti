@@ -4,7 +4,7 @@
 ## Estudiante de Ingeniería en Sistemas de Información | Argentina
 
 ### Stack Tecnológico
-* **Lenguajes:** Python, C++, C, Smalltalk.
+* **Lenguajes:** Python, C, Smalltalk.
 * **Tecnologías Web:** HTML5, CSS3.
 
 ### Enfoque
